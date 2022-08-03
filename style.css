@@ -1,0 +1,12 @@
+.jumbotron{
+    background-image: url("https://www.blue-growth.org/Blue_Growth_Technology_Innovation/BlueGrowth_Tech_Pictures/Fiji_Holidays_Tourism_Canoes_Oceans_Islands.jpg");
+
+}
+
+.card{
+   max-width: 250px;
+   
+}
+.row{
+    justify-content: center;
+}
