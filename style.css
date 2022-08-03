@@ -1,6 +1,10 @@
 .jumbotron{
     background-image: url("https://www.blue-growth.org/Blue_Growth_Technology_Innovation/BlueGrowth_Tech_Pictures/Fiji_Holidays_Tourism_Canoes_Oceans_Islands.jpg");
-
+    color: white;
+    font-weight: 500;
+}
+.jumbotron > h1{
+    font-weight: 900;
 }
 
 .card{
